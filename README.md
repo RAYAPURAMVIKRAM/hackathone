@@ -195,3 +195,5 @@ gcloud run deploy crisisbridge \
 | **Efficiency** | Fast async FastAPI endpoints, structured JSON responses, and instant client-side Web Audio alerts. |
 | **Testing** | Comprehensive `pytest` suite with mocked Gemini clients and edge case coverage. |
 | **Accessibility (A11y)** | WCAG AAA compliant dark mode, semantic HTML5, ARIA roles/live regions, skip links, and full keyboard navigation. |
+#   c r i s i s _ b r i d g e  
+ 
